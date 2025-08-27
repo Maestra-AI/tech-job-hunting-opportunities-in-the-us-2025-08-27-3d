@@ -493,7 +493,7 @@
 | Experian | Software Engineer | Mesquite, Texas | [Apply](https://jobs.smartrecruiters.com/Experian/744000077959175?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
 | Allstate-allstate Careers | Software Engineer Associate Manager | Remote | [Apply](https://allstate.wd1.myworkdayjobs.com/allstate_careers/job/USA---OH-Remote/Software-Engineer-Associate-Manager_R19676?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
 | Cortex | Lead Software Engineer | Remote | [Apply](https://job-boards.greenhouse.io/cortex/jobs/4896510008?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
-| Centralhq | Software Engineer - Payroll | Remote | [Apply](https://jobs.ashbyhq.com/centralhq/92e7b5e4-2eea-4170-a075-38680af05440?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
+| Centralhq | Software Engineer - Benefits | Remote | [Apply](https://jobs.ashbyhq.com/centralhq/849f178e-40f7-4b9b-8acd-c0b21c0347da?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
 | Centralhq | Software Engineer - Accounting | Remote | [Apply](https://jobs.ashbyhq.com/centralhq/28193603-1f30-4057-a54a-6aa47d3f5beb?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
 | Centralhq | Software Engineer - HRIS | Remote | [Apply](https://jobs.ashbyhq.com/centralhq/982c760c-ec7d-424a-908a-46e8bf8d9f91?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
 | Centralhq | Software Engineer - Ops Automation | Remote | [Apply](https://jobs.ashbyhq.com/centralhq/cbaac280-2e63-439f-a8e3-5566d17a7045?utm_source=reddit&utm_medium=organic&utm_campaign=jobhunting) |
